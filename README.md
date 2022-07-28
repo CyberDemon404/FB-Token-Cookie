@@ -45,7 +45,7 @@ Generate Facebook cookies and token without putting your account in checkpoint.
 
 <h1>Features</h1>
 <h2>[✓]GENERATE FB TOKEN AND COOKIE</h2>
-<img src="https://raw.githubusercontent.com/CyberDemon404/FB-Token-Cookie/main/IMG-20220728-WA0016.jpg" width="30px">
+<img src="https://raw.githubusercontent.com/CyberDemon404/FB-Token-Cookie/main/IMG-20220728-WA0016.jpg">
 
 
 <h2>[✓]CONVERT COOKIE TO TOKEN</h2>
