@@ -15,7 +15,7 @@ Generate Facebook cookies and token without putting your account in checkpoint.
 
 > MY TOOL VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/CyberDemon404/FB-Token-Cookie/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/CyberDemon404/count.svg)
 
 - ![Profile views](https://gpvc.arturio.dev/CyberDemon404)
 - [![GitHub followers](https://img.shields.io/github/followers/CyberDemon404.svg?style=social&label=Follow&maxAge=0098900)](https://github.com/cyberdemon0?tab=followers)
@@ -45,9 +45,9 @@ Generate Facebook cookies and token without putting your account in checkpoint.
 
 <h1>Features</h1>
 <h2>[✓]GENERATE FB TOKEN AND COOKIE</h2>
-<img scr="https://raw.githubusercontent.com/CyberDemon404/FB-Token-Cookie/main/IMG-20220728-WA0016.jpg" width="30px">
+<img src="https://raw.githubusercontent.com/CyberDemon404/FB-Token-Cookie/main/IMG-20220728-WA0016.jpg" width="30px">
 
 
 <h2>[✓]CONVERT COOKIE TO TOKEN</h2>
-<p>Currently under maintenance</p>
+<p><marquee>Currently under maintenance</marquee></p>
 
